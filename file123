@@ -1,0 +1,5 @@
++X=100
++Y=200
++
++print(x+y)
++print(get demo)
